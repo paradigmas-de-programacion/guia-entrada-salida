@@ -10,7 +10,7 @@ Escribir un programa en Java, con todas las clases que considere necesarias, par
 Se recibe un archivo en el cual la primera línea representa la cantidad de enteros que vendrán a continuación, y luego esa cantidad de enteros positivos, entre 0 y 9.
 Se pide escribir un archivo de salida que contenga en su primera línea un contador de números leídos (sin repetidos) y luego los números ordenados.
 
-Ejemplo:
+### Ejemplo 1:
 
 `entrada.in`:
 
@@ -33,6 +33,20 @@ Ejemplo:
 2
 3
 8
+```
+
+### Ejemplo 2:
+
+`entrada.in`:
+
+```
+0
+```
+
+`salida.out`:
+
+```
+0
 ```
 
 ## Ejercicio 02
