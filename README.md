@@ -57,7 +57,7 @@ Escribir un programa en Java, con todas las clases que considere necesarias, par
 
 ## Ejercicio 03
 
-Resolver el ejercicio "Luchadores Japoneses", que encontrará en este mismo repositorio bajo el nombre de `sumo.pdf`.
+Resolver el ejercicio [Luchadores Japoneses](https://github.com/paradigmas-de-programacion/guia-entrada-salida/blob/master/src/edu/unlam/paradigmas/entradasalida/ej03/sumo.pdf), que encontrará en este mismo repositorio bajo el nombre de `sumo.pdf` dentro del paquete correspondiente.
 
 El ejercicio deberá resolverse utilizando las técnicas de lectura y escritura de archivos aprendidas, pero también se solicita que se intente aplicar un diseño orientado a objetos que emplee las técnicas y herramientas aprendidas. En específico:
 - Separación de responsabilidades en distintas clases
