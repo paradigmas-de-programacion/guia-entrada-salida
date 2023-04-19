@@ -12,7 +12,7 @@ Se pide escribir un archivo de salida que contenga en su primera línea un conta
 
 ### Ejemplo 1:
 
-`entrada.in`:
+`caso01.in`:
 
 ```
 7
@@ -25,7 +25,7 @@ Se pide escribir un archivo de salida que contenga en su primera línea un conta
 2
 ```
 
-`salida.out`:
+`caso01.out`:
 
 ```
 4
@@ -37,13 +37,13 @@ Se pide escribir un archivo de salida que contenga en su primera línea un conta
 
 ### Ejemplo 2:
 
-`entrada.in`:
+`caso02.in`:
 
 ```
 0
 ```
 
-`salida.out`:
+`caso02.out`:
 
 ```
 0
